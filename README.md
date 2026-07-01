@@ -43,11 +43,11 @@ The game features:
 - **Mobile-optimized** touch interactions
 - **Instant feedback** on every action
 
-## 🚀 How to Play
+## How to Play
 
 1. **Open the game** in your web browser
 2. **Click on cards** to reveal hidden emojis
-3. **Find black items** (🖤, ⬛, 🐈‍⬛, 🦇, 🎱, 🕶️, 🐧, ⚫)
+3. **Find black items**
 4. **Score points** for each correct find
 5. **Find all 8** to earn a bonus and win!
 6. **Beat your high score** with each new game
