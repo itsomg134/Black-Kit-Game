@@ -20,14 +20,14 @@ The game features:
 - Customizable emoji selection
 - Responsive design for all screen sizes
 
-## ✨ Features
+## Features
 
 ### Core Gameplay
-- 🎯 **16 cards** arranged in a 4x4 grid
-- 🖤 **8 black items** hidden among colorful emojis
-- ⭐ **10 points** per correct find
-- 🏆 **50-point bonus** for finding all black items
-- 📊 **Real-time stats** tracking (Score, Found items, Attempts, High Score)
+- **16 cards** arranged in a 4x4 grid
+- **8 black items** hidden among colorful emojis
+- **10 points** per correct find
+- **50-point bonus** for finding all black items
+- **Real-time stats** tracking (Score, Found items, Attempts, High Score)
 
 ### Visual Design
 - 🌟 Glass-morphism UI with backdrop blur
