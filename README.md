@@ -9,7 +9,7 @@
 ![Game Screenshot](https://via.placeholder.com/800x400?text=Black+Kit+Game+Screenshot)
 
 
-## 🎮 About The Game
+## About The Game
 
 **Black Kit Game** is a fun, interactive web-based game that challenges your observation skills. The game presents a 4x4 grid of hidden emojis, and your task is to find all the black-themed items. Each correct discovery earns points, and finding all items unlocks a bonus!
 
