@@ -1,4 +1,4 @@
-# 🖤 Black Kit Game
+# Black Kit Game
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -8,18 +8,6 @@
 
 ![Game Screenshot](https://via.placeholder.com/800x400?text=Black+Kit+Game+Screenshot)
 
-## 📋 Table of Contents
-
-- [🎮 About The Game](#-about-the-game)
-- [✨ Features](#-features)
-- [🚀 How to Play](#-how-to-play)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [📦 Installation](#-installation)
-- [🎯 Game Mechanics](#-game-mechanics)
-- [🎨 Customization](#-customization)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📞 Contact](#-contact)
 
 ## 🎮 About The Game
 
