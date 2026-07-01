@@ -122,16 +122,7 @@ Then open `http://localhost:8000` in your browser.
 - **Active** - Game is in progress
 - **Complete** - All black items found
 - **Reset** - Game reset to initial state
-
-## 🎨 Customization
-
-### Changing Emoji Sets
-```javascript
-// In the script section, modify these arrays:
-const emojis = ['🖤', '⬛', '🐈‍⬛', '🦇', '🎱', '🕶️', '🐧', '⚫'];
-const blackEmojis = ['🖤', '⬛', '🐈‍⬛', '🦇', '🎱', '🕶️', '🐧', '⚫'];
-```
-
+  
 ### Adjusting Grid Size
 ```javascript
 state.totalCards = 16; // Change to 8, 12, 20, etc. (must be divisible by 4)
@@ -150,7 +141,7 @@ background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
 border-color: #ffd700; /* Gold accent */
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -170,40 +161,13 @@ Contributions are welcome! Here's how you can help:
 5. **Open a Pull Request**
 
 ### Ideas for Contributions
-- 🎮 Add difficulty levels (easy, medium, hard)
-- 🏆 Create leaderboard system
-- 🎨 More emoji themes
-- 🔊 Sound effects for interactions
-- 📱 PWA support
-- 🕹️ Timer mode
+- Add difficulty levels (easy, medium, hard)
+- Create leaderboard system
+- More emoji themes
+- Sound effects for interactions
+- PWA support
+- Timer mode
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Live Demo**: [Play Now](https://your-demo-link.com)
-
-## 🙏 Acknowledgments
-
-- Emoji designs by [Unicode Consortium](https://unicode.org/emoji/)
-- Inspired by classic memory games
-- Built with ❤️ for the coding community
-
----
-
-### ⭐ Show Your Support
-
-If you enjoyed this game, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🔗 Sharing with friends
-
----
-
-**Made with 💻 and ☕**
