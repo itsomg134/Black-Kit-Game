@@ -104,7 +104,7 @@ php -S localhost:8000
 
 Then open `http://localhost:8000` in your browser.
 
-## 🎯 Game Mechanics
+## Game Mechanics
 
 ### Card Generation
 - 16 cards randomly generated
