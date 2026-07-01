@@ -30,11 +30,11 @@ The game features:
 - **Real-time stats** tracking (Score, Found items, Attempts, High Score)
 
 ### Visual Design
-- 🌟 Glass-morphism UI with backdrop blur
-- 🌈 Gradient backgrounds and animations
-- ✨ Smooth hover and click effects
-- 🔄 Shake animation for wrong guesses
-- 🎨 Responsive design for mobile and desktop
+- Glass-morphism UI with backdrop blur
+- Gradient backgrounds and animations
+- Smooth hover and click effects
+- Shake animation for wrong guesses
+- Responsive design for mobile and desktop
 
 ### User Experience
 - 💾 **Persistent high scores** stored in browser localStorage
