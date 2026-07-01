@@ -20,15 +20,6 @@ The game features:
 - Customizable emoji selection
 - Responsive design for all screen sizes
 
-## Features
-
-### Core Gameplay
-- **16 cards** arranged in a 4x4 grid
-- **8 black items** hidden among colorful emojis
-- **10 points** per correct find
-- **50-point bonus** for finding all black items
-- **Real-time stats** tracking (Score, Found items, Attempts, High Score)
-
 ### Visual Design
 - Glass-morphism UI with backdrop blur
 - Gradient backgrounds and animations
@@ -57,7 +48,7 @@ The game features:
 - **Reset** - Reset current game without changing card layout
 - **Emoji Picker** - Select your preferred black emoji style
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Advanced styling with animations, gradients, and glass-morphism
