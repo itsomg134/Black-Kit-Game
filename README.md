@@ -6,8 +6,7 @@
 
 > An interactive memory and pattern recognition game where players find and collect black items hidden among colorful emojis.
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Black+Kit+Game+Screenshot)
-
+<img width="1875" height="1411" alt="image" src="https://github.com/user-attachments/assets/ee064425-ac67-409f-ae87-972f6d0bf02e" />
 
 ## About The Game
 
