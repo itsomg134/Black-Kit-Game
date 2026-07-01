@@ -37,11 +37,11 @@ The game features:
 - Responsive design for mobile and desktop
 
 ### User Experience
-- 💾 **Persistent high scores** stored in browser localStorage
-- 🎮 **Customizable emoji selection** - choose your favorite black emoji
-- 🔄 **New Game** and **Reset** functionality
-- 📱 **Mobile-optimized** touch interactions
-- ⚡ **Instant feedback** on every action
+- **Persistent high scores** stored in browser localStorage
+- **Customizable emoji selection** - choose your favorite black emoji
+- **New Game** and **Reset** functionality
+- **Mobile-optimized** touch interactions
+- **Instant feedback** on every action
 
 ## 🚀 How to Play
 
