@@ -68,7 +68,7 @@ The game features:
 - LocalStorage for data persistence
 - Dynamic DOM manipulation
 
-## 📦 Installation
+## Installation
 
 ### Option 1: Quick Start (Single File)
 1. Download the `index.html` file
